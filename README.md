@@ -54,7 +54,6 @@ text-decoration:none;
     <h1>About Monuments</h1>
     <p>Monuments of India are historical and cultural sites that reflect the glory of its rulers, the brilliance of its artisans, and the diversity of its religions. Some of the most famous and visited monuments of India are the Taj Mahal, the Red Fort, the Qutub Minar, the Charminar, and the Jantar Mantar. These monuments are spread across the country and some are recognized as World Heritage Sites by UNESCO.
     
-    </p>
     
     
 <td colspan="2" style="padding:20px;" ><img src="https://th.bing.com/th/id/OIP.j2yV3-5G2cFU0fHxzBKUnQAAAA?pid=ImgDet&rs=1" alt="Taj Mahal" class="image-with-shadow" style="width:300px; height:300px;">
@@ -90,7 +89,7 @@ text-decoration:none;
 
 
 <tr>
-<td colspan="2" style="padding:20px;">< img src="https://4.bp.blogspot.com/-aXUVc7zEoZM/V2ngHXJGkmI/AAAAAAAAAvY/7J1CmGFUoD4dTGlb584fhY8jyKh9Yh6pACLcB/s1600/Charminar%255B1%255D.jpg" style="width:300px; height:300px;">
+<td colspan="2" style="padding:20px;">< img src="https://th.bing.com/th/id/R.59334790da7f07d0a446ce25b5df2ab4?rik=e5yB8oP29PxBOg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NC1nEtY5wEM%2fUBunnZDU3JI%2fAAAAAAAAACQ%2f_Gh7Fq99WBA%2fs1600%2fCharminar%2b%2525285%252529.jpg&ehk=k%2fr7aWHvzGZNYshdoHdib7sHkD%2bUqOlbnb8OGhVHvrQ%3d&risl=&pid=ImgRaw&r=0" style="width:300px; height:300px;">
 <button class="animated-button"><h3> Charminar</h3>
 <p>Hyderabad</p>
 </button>
